@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/andrn/.config'
+let g:netrw_dirhist_1='/home/andrn/.config/xfce4'
+let g:netrw_dirhist_0='/home/andrn/.config/xfce4/panel'
+let g:netrw_dirhist_9='/home/andrn/.config/xfce4'
+let g:netrw_dirhist_8='/home/andrn/.config/xfce4/xfwm4'
+let g:netrw_dirhist_7='/home/andrn/.config/xfce4'
+let g:netrw_dirhist_6='/home/andrn/.config/xfce4/xfconf'
+let g:netrw_dirhist_5='/home/andrn/.config/xfce4/xfconf/xfce-perchannel-xml'
+let g:netrw_dirhist_4='/home/andrn/.config/xfce4/xfconf'
+let g:netrw_dirhist_3='/home/andrn/.config/xfce4'

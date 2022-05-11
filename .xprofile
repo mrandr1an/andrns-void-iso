@@ -1,0 +1,5 @@
+#!/bin/sh
+echo "Sourcing files"
+[ -f ~/.config/zsh/.zshenv ] && . ~/.config/zsh/.zshenv
+echo "Sourced"
+lightdm &
